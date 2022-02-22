@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = []
 
+# https://github.com/jazzband/django-oauth-toolkit/blob/f412b0b340404aff053da49f4f5bc1c63eb68bc9/docs/getting_started.rst
 # Point to Users Abstract Models
 AUTH_USER_MODEL='users.User'
 
